@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txtNote_Login">Yêu cầu: \n Số điện thoại và email phải hợp lệ\n Mật khẩu tối thiểu là 8 ký tự \n Edittext nào không nhập vào thì báo lỗi \n Nếu không đúng điều kiện sẽ hiển thị lên TextView và \n background của edittext sẽ đổi sang màu đỏ</string>
+</resources>
